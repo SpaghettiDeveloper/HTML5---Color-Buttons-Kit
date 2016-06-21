@@ -7,5 +7,6 @@ Rilasciato sotto la licenza:
 <img src="https://github.com/SpaghettiDeveloper/HTML5-Color-Buttons-Kit/blob/master/gplv3.png">
 <br>
 <br>
-Screenshot:
+<br>
+<br>
 <img src="https://github.com/SpaghettiDeveloper/HTML5-Color-Buttons-Kit/blob/master/html5_color_buttons_kit.PNG">
